@@ -1,0 +1,8 @@
+{
+  "label": "wazo-js-sdk",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Le wazo-js-sdk vous permet de développer de bout en bout vos applications de communication !"
+  }
+}

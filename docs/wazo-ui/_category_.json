@@ -1,0 +1,8 @@
+{
+    "label": "wazo-ui",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Wazo-ui vous permet de configurer vos services de manière graphique."
+    }
+  }

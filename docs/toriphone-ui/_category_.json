@@ -1,0 +1,9 @@
+{
+    "label": "toriphone-ui",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Toriphone-ui est un équivalent à Wazo-ui, mais écrit en React !"
+    }
+  }
+  

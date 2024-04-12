@@ -1,0 +1,8 @@
+{
+    "label": "api",
+    "position": 3,
+    "link": {
+        "type": "generated-index",
+        "description": "Il est possible de faire appel spécifiquement à n'importe quel endpoint grâce à l'API."
+      }
+  }
