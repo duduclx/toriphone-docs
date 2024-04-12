@@ -1,4 +1,4 @@
-## ON_CALL_REJECTED
+# ON_CALL_REJECTED
 
 L'event `ON_CALL_REJECTED` se déclenche lorsqu'un appel est annulé.
 

@@ -2,46 +2,78 @@
 sidebar_position: 1
 ---
 
+import Link from '@docusaurus/Link';
+import ArrowRight from '@site/static/img/introduction/arrow_right.svg'
+
 # Introduction
+<p>
+Retrouver toutes les informations utiles à votre projet, dans un seul endroit !
+</p>
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<div className="gallery">
 
-## Getting Started
+<div className="sub-heading">
+    <h3>Les différents thèmes</h3>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Wazo Platform</h4>
+    </div>
+    <p>Wazo Platform allows developers to build solutions that fit any business and technical requirements. Fully open source and based on open Source components, Wazo Platform aims to provide all the building blocks to create a full-featured, carrier-grade, Programmable Telecom Infrastructure.</p>
+    <Link className="link" to="/docs/category/wazo-platform">
+    Wazo Platform <ArrowRight className="arrow" />
+    </Link>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Wazo UI</h4>
+    </div>
+    <p>Wazo-ui is an open source UI to help people easily interact with the wazo-platform APIs. This project is not always up-to-date with the entire API engine, but you can still do a lot.</p>
+    <Link className="link" to="/docs/category/wazo-ui">
+    Wazo UI <ArrowRight className="arrow" />
+    </Link>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Wazo-js-sdk</h4>
+    </div>
+    <p>
+      Wazo JavaScript SDK makes it easy for you to build Programmable Conversation applications. Use this dev kit in any JS application to leverage communication possibilities.
+    </p>
+    <Link className="link" to="/docs/category/wazo-js-sdk">
+    Wazo-js-sdk <ArrowRight className="arrow" />
+    </Link>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Wazo wdk</h4>
+    </div>
+    <p>Developer tool kit for Wazo development</p>
+    <Link className="link" to="/docs/category/wazo-wdk">
+    Wazo wdk <ArrowRight className="arrow" />
+    </Link>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Communauty plugins</h4>
+    </div>
+    <p>
+      get benefits from usefull plugins from the community.
+    </p>
+    <Link className="link" to="/docs/category/community-plugins">
+    Communauty plugins <ArrowRight className="arrow" />
+    </Link>
+  </div>
+  <div className="card">
+    <div className="card-header">
+      <h4>Toriphone UI</h4>
+    </div>
+    <p>
+      Participate in an open-source project and enjoy a user-friendly experience to manage your environment.
+    </p>
+    <Link className="link" to="/docs/category/toriphone-ui">
+    Toriphone UI <ArrowRight className="arrow" />
+    </Link>
+  </div>
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+  </div>

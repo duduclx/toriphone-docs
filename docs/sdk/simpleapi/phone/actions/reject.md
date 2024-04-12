@@ -30,7 +30,7 @@ Wazo.Phone.reject(callSession);
   <TabItem value="Evènement" label="Evènement">
 
   Il déclenche l'évènement:  
-  [`ON_CALL_REJECTED`](src/simpleapi/phoneEvents/onCallRejected.md)
+  [`ON_CALL_REJECTED`](sdk/simpleapi/phoneEvents/onCallRejected.md) 
 
   Il déclenche aussi un WebSocket qui sera joué à l'appelant et à l'appelé :  
   CALL_ENDED: "call_ended"

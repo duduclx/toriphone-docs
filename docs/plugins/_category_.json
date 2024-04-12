@@ -1,0 +1,8 @@
+{
+    "label": "community plugins",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "Le wazo-wdk vous permet de développer la stack wazo-platform !"
+    }
+  }

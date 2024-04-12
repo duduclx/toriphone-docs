@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'toriphone-docs',
   tagline: 'community documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/torifavicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/duduclx/toriphone-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/duduclx/toriphone-docs/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -79,9 +79,9 @@ const config = {
             label: 'Documentation',
           },
           {to: '/community', label: 'Communauté', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /*{to: '/blog', label: 'Blog', position: 'left'},*/
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/duduclx/toriphone-docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -94,43 +94,57 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Documentation',
                 to: '/docs/intro',
               },
+              {
+                label: 'Wazo platform documentation',
+                href: 'https://wazo-platform.org/documentation'
+              },
+              {
+                label: 'Wazo platform use cases',
+                href: 'https://wazo-platform.org/use-cases'
+              }
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Community',
+                to: 'community',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Wazo-platform discourse',
+                href: 'https://wazo-platform.discourse.group/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Wazo-platform mattermost',
+                href: 'https://mm.wazo.community/wazo-platform/channels/town-square',
               },
             ],
           },
           {
             title: 'More',
             items: [
+              /*
               {
                 label: 'Blog',
                 to: '/blog',
               },
+              */
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: "documentation's GitHub",
+                href: 'https://github.com/duduclx/toriphone-docs',
               },
+              {
+                label: "Wazo platform githubs",
+                href: 'https://github.com/wazo-platform/'
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ToriPhone, Inc.`,
       },
       prism: {
         theme: prismThemes.github,
