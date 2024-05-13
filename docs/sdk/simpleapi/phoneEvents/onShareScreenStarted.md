@@ -1,4 +1,4 @@
-## ON_SHARE_SCREEN_STARTED
+# ON_SHARE_SCREEN_STARTED
 
 L'event `ON_SHARE_SCREEN_STARTED` se déclenche lorsqu'un utilisateur partage son écran.
 
@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_SHARE_SCREEN_STARTED, onShareScreenStarted);
   Wazo.Phone.startScreenSharing(constraints, callSession);
   ```
 
-  Plus d'informations sur la page [Partager du contenu](/fr/simpleapi/phone?id=partager-du-contenu)
+  Plus d'informations sur la page [Partager du contenu](../phone/actions/startScreenSharing)
 
 - **Data**
 

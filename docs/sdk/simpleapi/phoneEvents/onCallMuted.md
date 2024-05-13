@@ -1,4 +1,4 @@
-## ON_CALL_MUTED
+# ON_CALL_MUTED
 
 L'event `ON_CALL_MUTED` se déclenche lorsque le micro est coupé.
 

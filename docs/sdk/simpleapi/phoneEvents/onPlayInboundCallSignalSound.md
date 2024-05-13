@@ -1,4 +1,4 @@
-## ON_PLAY_INBOUND_CALL_SIGNAL_SOUND
+# ON_PLAY_INBOUND_CALL_SIGNAL_SOUND
 
 L'event `ON_PLAY_INBOUND_CALL_SIGNAL_SOUND` se déclenche lorsqu'un appel (provenant de l'extérieur) est reçu (sonnerie de l'appelé).
 

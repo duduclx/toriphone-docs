@@ -1,0 +1,8 @@
+{
+    "label": "Dialplan plugins",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Create your own logic with dialplan."
+    }
+  }

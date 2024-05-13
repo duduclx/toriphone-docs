@@ -1,4 +1,4 @@
-## ON_SIGNAL
+# ON_SIGNAL
 
 L'event `ON_SIGNAL` se déclenche lorsqu'un signal est envoyé dans un appel (vidéo).
 
@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_SIGNAL, onSignal);
    Wazo.Phone.sendSignal(signal)
   ```
 
-  Plus d'informations sur la page [Envoyer un signal](/fr/simpleapi/phone?id=envoyer-un-signal)
+  Plus d'informations sur la page [Envoyer un signal](../phone/actions/sendSignal)
 
 - **Data**
 

@@ -1,4 +1,4 @@
-## ON_PLAY_RING_SOUND
+# ON_PLAY_RING_SOUND
 
 L'event `ON_PLAY_RING_SOUND` se déclenche lorsqu'un appel est reçu (sonnerie de l'appelé).
 

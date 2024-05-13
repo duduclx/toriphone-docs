@@ -1,4 +1,4 @@
-## ON_CALL_ANSWERED
+# ON_CALL_ANSWERED
 
 L'event `ON_CALL_ANSWERED` se déclenche lorsqu'un appel est répondu.
 

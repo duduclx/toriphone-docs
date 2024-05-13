@@ -1,0 +1,8 @@
+  {
+    "label": "Node Red plugins",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Node Red plugins will help you to build workflows on your node red instance."
+    }
+  }

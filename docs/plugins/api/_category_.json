@@ -1,0 +1,8 @@
+{
+    "label": "Api plugins",
+    "position": 1,
+    "link": {
+      "type": "generated-index",
+      "description": "Apis plugins provide extensions and features to the wazo platform stack."
+    }
+  }

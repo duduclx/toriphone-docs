@@ -1,4 +1,4 @@
-## ON_CALL_RESUMED
+# ON_CALL_RESUMED
 
 L'event `ON_CALL_RESUMED` se déclenche lorsqu'un appel mis en pause est repris.
 

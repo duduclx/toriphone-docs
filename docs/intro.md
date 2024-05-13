@@ -64,16 +64,5 @@ Retrouver toutes les informations utiles à votre projet, dans un seul endroit !
     Communauty plugins <ArrowRight className="arrow" />
     </Link>
   </div>
-  <div className="card">
-    <div className="card-header">
-      <h4>Toriphone UI</h4>
-    </div>
-    <p>
-      Participate in an open-source project and enjoy a user-friendly experience to manage your environment.
-    </p>
-    <Link className="link" to="/docs/category/toriphone-ui">
-    Toriphone UI <ArrowRight className="arrow" />
-    </Link>
-  </div>
 
   </div>

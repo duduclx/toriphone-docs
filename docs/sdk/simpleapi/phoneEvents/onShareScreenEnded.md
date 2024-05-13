@@ -1,4 +1,4 @@
-## ON_SHARE_SCREEN_ENDED
+# ON_SHARE_SCREEN_ENDED
 
 L'event `ON_SHARE_SCREEN_ENDED` se déclenche lorsqu'un utilisateur arrète un partage d'écran.
 

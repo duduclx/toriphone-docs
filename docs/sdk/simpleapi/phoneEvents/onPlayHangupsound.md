@@ -1,4 +1,4 @@
-## ON_PLAY_HANGUP_SOUND
+# ON_PLAY_HANGUP_SOUND
 
 L'event `ON_PLAY_HANGUP_SOUND` se déclenche lorsqu'un appel est raccroché.
 
@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_PLAY_HANGUP_SOUND, onPlayHangupSound);
    Wazo.Phone.hangup(callSession)
   ```
 
-  Plus d'informations sur la page [Raccrocher un appel](/fr/simpleapi/phone?id=raccrocher-un-appel)
+  Plus d'informations sur la page [hangup](../phone/actions/hangup)
 
 - **Data**
 

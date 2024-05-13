@@ -1,4 +1,4 @@
-## ON_CAMERA_RESUMED
+# ON_CAMERA_RESUMED
 
 L'event `ON_CAMERA_RESUMED` se déclenche lorsque la caméra est réactivée.
 

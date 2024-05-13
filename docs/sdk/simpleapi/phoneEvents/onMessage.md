@@ -1,4 +1,4 @@
-## ON_MESSAGE
+# ON_MESSAGE
 
 L'event `ON_MESSAGE` se déclenche lorsqu'un message passe par le bus de l'application.
 

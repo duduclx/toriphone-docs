@@ -1,4 +1,4 @@
-## ON_TERMINATE_SOUND
+# ON_TERMINATE_SOUND
 
 L'event `ON_TERMINATE_SOUND` se déclenche lorsqu'un appel est décroché, ou autre évènement nécessitant d'informer qu'il faut stopper la sonnerie.
 

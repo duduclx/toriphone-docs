@@ -1,4 +1,4 @@
-## ON_CALL_HELD
+# ON_CALL_HELD
 
 L'event `ON_CALL_HELD` se déclenche lorsqu'un appel est mis en pause.
 

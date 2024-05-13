@@ -1,4 +1,4 @@
-## ON_CALL_OUTGOING
+# ON_CALL_OUTGOING
 
 L'event `ON_CALL_OUTGOING` se déclenche lorsqu'un utilisateur accepte un appel entrant.
 
@@ -15,7 +15,7 @@ Wazo.Phone.on(Wazo.Phone.ON_CALL_OUTGOING, onCallOutgoing);
   ```js
   Wazo.Phone.accept(callSession);
   ```
-  Plus d'informations sur la page [Accepter un appel entrant](/fr/simpleapi/phone?id=accepter-un-appel-entrant)
+  Plus d'informations sur la page [Accept](../phone/actions/accept)
 
 - **Data**
 

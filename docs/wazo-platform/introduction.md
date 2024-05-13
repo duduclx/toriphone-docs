@@ -8,4 +8,4 @@ La plateforme Wazo permet aux développeurs de construire des solutions adaptée
 
 La documentation officielle de wazo plaform est disponible sur
 
-[Wazo ducomentation](https://wazo-platform.org/uc-doc/)
+[Wazo documentation](https://wazo-platform.org/uc-doc/)

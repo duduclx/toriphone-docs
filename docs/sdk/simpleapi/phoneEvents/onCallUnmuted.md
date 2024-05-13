@@ -1,4 +1,4 @@
-## ON_CALL_UNMUTED
+# ON_CALL_UNMUTED
 
 L'event `ON_CALL_UNMUTED` se déclenche lorsque le micro est réactivé.
 

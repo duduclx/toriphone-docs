@@ -1,4 +1,4 @@
-## MESSAGE_TYPE_CHAT
+# MESSAGE_TYPE_CHAT
 
 Cet évènement est obsolète.  
 

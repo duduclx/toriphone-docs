@@ -1,4 +1,4 @@
-## MESSAGE_TYPE_SIGNAL
+# MESSAGE_TYPE_SIGNAL
 
 Cet évènement est obsolète.  
 

@@ -1,4 +1,4 @@
-## ON_CALL_CANCELED
+# ON_CALL_CANCELED
 
 L'event `ON_CALL_CANCELED` se déclenche lorsqu'un appel est annulé.
 

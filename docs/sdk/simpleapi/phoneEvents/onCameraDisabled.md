@@ -1,4 +1,4 @@
-## ON_CAMERA_DISABLED
+# ON_CAMERA_DISABLED
 
 L'event `ON_CAMERA_DISABLED` se déclenche lorsque a caméra est coupée.
 

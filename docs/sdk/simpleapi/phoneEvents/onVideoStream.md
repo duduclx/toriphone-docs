@@ -1,4 +1,4 @@
-## ON_VIDEO_STREAM
+# ON_VIDEO_STREAM
 
 L'event `ON_VIDEO_STREAM` se déclenche lorsqu'un appel vidéo est effectué.
 
@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_VIDEO_STREAM, onVideoStream);
   Wazo.Phone.call(number, withVideo)
   ```
 
-  Plus d'informations sur la page [Passer un appel](/fr/simpleapi/phone?id=passer-un-appel)
+  Plus d'informations sur la page [Passer un appel](../phone/actions/call)
 
 - **Data**
 

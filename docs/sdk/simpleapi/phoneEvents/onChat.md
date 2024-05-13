@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_CHAT, onChat);
    Wazo.Phone.sendChat(message)
   ```
 
-  Plus d'informations sur la page [Envoyer un message](/fr/simpleapi/phone?id=envoyer-un-message)
+  Plus d'informations sur la page [send chat](../phone/actions/sendChat)
 
 - **Data**
 

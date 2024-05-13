@@ -1,4 +1,4 @@
-## ON_CALL_ENDED
+# ON_CALL_ENDED
 
 L'event `ON_CALL_ENDED` se déclenche lorsqu'un appel est terminé.
 

@@ -1,4 +1,4 @@
-## ON_CALL_INCOMING
+# ON_CALL_INCOMING
 
 L'event `ON_CALL_INCOMING` permet de signaler un appel entrant et d'obtenir les informations de l'appel.  
 Il faudra stocker ces informations dans l'objet `callSession` et `callSessions`.
@@ -19,7 +19,7 @@ Wazo.Phone.on(Wazo.Phone.ON_CALL_INCOMING, OnIncomingCall);
   Wazo.Phone.call(number, withVideo);
   ```
 
-  Plus d'informations sur la page [Passer un appel](/fr/simpleapi/phone?id=passer-un-appel)
+  Plus d'informations sur la page [call](../phone/actions/call)
 
 - **Data**
 

@@ -1,4 +1,4 @@
-## ON_PLAY_PROGRESS_SOUND
+# ON_PLAY_PROGRESS_SOUND
 
 L'event `ON_PLAY_PROGRESS_SOUND` se déclenche lorsqu'un appel est lancé (sonnerie de l'appelant).
 
@@ -16,7 +16,7 @@ Wazo.Phone.on(Wazo.Phone.ON_PLAY_PROGRESS_SOUND, onPlayProgressSound);
   Wazo.Phone.call(number, withVideo);
   ```
 
-  Plus d'informations sur la page [Passer un appel](/fr/simpleapi/phone?id=passer-un-appel)
+  Plus d'informations sur la page [call](../phone/actions/call)
 
 - **Data**
 

@@ -43,8 +43,8 @@ const currentAtxfer = Wazo.Phone.atxfer(callSession);
   <TabItem value="Evènement" label="Evènement">
 
   Il déclenche l'évènement:  
-  [`ON_CALL_INCOMING`](fr/simpleapi/phoneEvents?id=on_call_incoming)  
-  [``ON_CALL_ENDED``](fr/simpleapi/phoneEvents?id=on_call_ended)
+  [`ON_CALL_INCOMING`](../../phoneEvents/onCallIncoming)  
+  [``ON_CALL_ENDED``](../../phoneEvents/onCallEnded)
 
   </TabItem>
 

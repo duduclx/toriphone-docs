@@ -1,4 +1,4 @@
-## ON_CALL_ERROR
+# ON_CALL_ERROR
 
 L'event `ON_CALL_ERROR` se déclenche lorsqu'un appel est échoué.
 
